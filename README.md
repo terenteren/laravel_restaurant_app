@@ -1,8 +1,8 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
-<p align="center">
-    This is maked by laravel breeze.
-</p>
+<p align="center"> This is maked by laravel breeze. </p>
+<Br>
+<Br>
 
 ![1](https://user-images.githubusercontent.com/33644179/177467890-42475c7f-81fe-4b9c-bbc8-64e23b9b8225.png)
 ![2](https://user-images.githubusercontent.com/33644179/177468042-62b0c22d-a7b1-4cdb-8aac-23a21c2f4dc1.png)
